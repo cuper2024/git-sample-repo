@@ -1,5 +1,5 @@
 git status-print the status
-git init
+git init-initiliaze the git
 git config
 git add
 git commit
