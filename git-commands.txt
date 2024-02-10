@@ -1,6 +1,6 @@
 git status-print the status
 git init-initiliaze the git
-git config
+git config--global user.name "Ram"
 git add
 git commit
 git log
