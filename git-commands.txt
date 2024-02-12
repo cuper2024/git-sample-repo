@@ -7,4 +7,25 @@
 
 
 
+
+
+
+git status   						-print the status of the Git Repository
+git init    						-initializes the Git Repository
+git config--global user.name "Ram"			-Specify username globally
+git config--global user.email "Ram@gmail.com"		-Specify Email globally
+git config user.name "Ram"				-Specify username for particular repository
+git config user.email "Ram@gmail.com"			-Specify Email for particular repository
+
+
+
+
+
+
+
+
+
+
+
 git log							-Check file log history
+
