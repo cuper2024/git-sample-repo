@@ -1,7 +1,9 @@
-git status-print the status
-git init-initiliaze the git
-git config--global user.name "Ram"
-git add
-git commit
-git log
-git diff
+git status   						-print the status of the Git Repository
+git init    						-initializes the Git Repository
+git config--global user.name "Ram"			-Specify username globally
+git config--global user.email "Ram@gmail.com"		-Specify Email globally
+git config user.name "Ram"				-Specify username for particular repository
+git config user.email "Ram@gmail.com"			-Specify Email for particular repository
+git add  						--add file to staging enviroment
+git commit -m ""					-commit file to local git repository
+
